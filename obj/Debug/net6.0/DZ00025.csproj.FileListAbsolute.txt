@@ -1,0 +1,15 @@
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\bin\Debug\net6.0\DZ00025.exe
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\bin\Debug\net6.0\DZ00025.deps.json
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\bin\Debug\net6.0\DZ00025.runtimeconfig.json
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\bin\Debug\net6.0\DZ00025.dll
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\bin\Debug\net6.0\DZ00025.pdb
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\obj\Debug\net6.0\DZ00025.csproj.AssemblyReference.cache
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\obj\Debug\net6.0\DZ00025.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\obj\Debug\net6.0\DZ00025.AssemblyInfoInputs.cache
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\obj\Debug\net6.0\DZ00025.AssemblyInfo.cs
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\obj\Debug\net6.0\DZ00025.csproj.CoreCompileInputs.cache
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\obj\Debug\net6.0\DZ00025.dll
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\obj\Debug\net6.0\refint\DZ00025.dll
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\obj\Debug\net6.0\DZ00025.pdb
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\obj\Debug\net6.0\DZ00025.genruntimeconfig.cache
+C:\GeekBrains\04.08.2022\Exampels\DZ00025\obj\Debug\net6.0\ref\DZ00025.dll
